@@ -7,6 +7,7 @@
     "main": "main.js",
     "scripts": {
         "start": "electron main.js",
+        "profile": "electron --inspect main.js",
         "test": "echo \" Warning: no test specified \"",
         "watch": "nodemon --exec \"npm run start\" --ext js,css,json --ignore build/",
         "pack": "electron-builder --dir",
@@ -31,8 +32,8 @@
         "node-red-contrib-osc": "^1.1.0",
         "node-red-contrib-play-audio": "*",
         "node-red-contrib-say": "~0.1.1",
-        "node-red-contrib-usb-hid-relay": "^0.2.4",
-        "node-red-dashboard": "^2.17.0",
+        "node-red-contrib-usb-hid-relay": "^0.2.5",
+        "node-red-dashboard": "^2.17.1",
         "node-red-node-arduino": "^0.2.2",
         "node-red-node-base64": "*",
         "node-red-node-random": "*",

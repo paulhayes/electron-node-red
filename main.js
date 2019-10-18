@@ -421,7 +421,7 @@ app.on('activate', function() {
 // Start the Node-RED runtime, then load the inital dashboard page
 RED.start().then(function() {
     server.listen(listenPort,host,function() {
-        mainWindow.loadURL(hostUrl+listenPort+urldash);
+        mainWindow.loadURL(hostUrl+listenPort+urldash);       
     });
 });
 
