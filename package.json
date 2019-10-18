@@ -26,7 +26,7 @@
     "dependencies": {
         "electron-store": "^5.0.0",
         "express": "~4.17.1",
-        "node-red": "^1.0.2",
+        "node-red": "^0.20.5",
         "node-red-contrib-midi": "git+https://github.com/paulhayes/node-red-contrib-midi.git",
         "node-red-contrib-osc": "^1.1.0",
         "node-red-contrib-play-audio": "*",
