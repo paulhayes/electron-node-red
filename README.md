@@ -1,13 +1,7 @@
-# Lockkeeper
-
 ![](img/LockkeeperTitleBlack.png)
 ![](img/LockkeeperBlack.png)
 
-Lockkeeper is an open source ( GPL v3.0 License )[License.md] application intended to provide Escape Room creators and easy to use off the shelf tool for developing, controlling and deploying their projects.
-
-Welcome ERIC 2019 Workshop participants. The Flow for the workshop control panel is availble here https://raw.githubusercontent.com/paulhayes/escape-room-template-node-red-project/eric2019workshop/flow.json
-
-Source code for the Control Panel's Microcontrollers are available as [Platformio](https://platformio.org/) projects: https://github.com/paulhayes/eric2019-workshop
+Lockkeeper is an open source [GPL v3.0 License](License.md) application intended to provide Escape Room creators and easy to use off the shelf tool for developing, controlling and deploying their projects.
 
 It's features include 
 * Dashboard
@@ -16,9 +10,24 @@ It's features include
 * Force unlocks
 * Communication checking
 
-## To Use
+## Quick Start
 
-Alpha releases will be available soon. Alternatively you can clone and build the project yourself.
+Download a latest release from the releases page. Please note, this project is an Alpha. There is still a work in progress with no stable release with the first full set of features. 
+
+But if you want to play along, please join us, feature suggestions are welcome on the Issues page.
+
+## Getting Started 
+
+If you'd like support for node-red packages, you'll need to install nodejs. This is so Lockkeeper can use npm ( node package manager ).
+
+If you'd like to version control your project, please install [git](). 
+
+Node RED will detect when these are available and enable the extra features in the node RED menu ( top right ).
+
+
+## Building yourself
+
+Alternatively you can clone and build the project yourself.
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
