@@ -48,16 +48,6 @@ cd electron-node-red
 npm install && npm run clean && npm start
 ```
 
-## TL:DR - building runtimes
-
-On OSX you can run `./buildall` to build binaries of "everything"... maybe...
-
-Run `npm run pack` to create packages for all platforms - these are the files required to run, they are not binary installers.
-
-Builds are created in the `build` directory. Runtimes are created in the `../electron-bin` directory.
-
-**Note**: this was written to work on a Mac... other tools may/will be needed on other platforms.
-
 ## Packaging your application
 
 If you want to distribute executables of this project, the easiest way is to use electron-builder:
