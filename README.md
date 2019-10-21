@@ -57,7 +57,3 @@ npm run dist
 ```
 
 ## License [GPLv3](LICENSE.md)
-
-## See also
- - **Stand-alone Starter Project** - https://github.com/dceejay/node-red-project-starter
- - **Bluemix Starter Project** - https://github.com/dceejay/node-red-bluemix-starter
