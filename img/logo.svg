@@ -14,7 +14,7 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="logo.svg">
   <defs
      id="defs2" />
@@ -35,8 +35,8 @@
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:window-width="2023"
-     inkscape:window-height="1068"
+     inkscape:window-width="1680"
+     inkscape:window-height="1006"
      inkscape:window-x="93"
      inkscape:window-y="78"
      inkscape:window-maximized="0" />
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,14 +58,14 @@
      id="layer1"
      transform="translate(0,-161.53332)">
     <circle
-       style="opacity:0.95999995;fill:#cbd7e0;fill-opacity:1;stroke:none;stroke-width:0.38429767;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.95999995;fill:#b2cad5;fill-opacity:1;stroke:none;stroke-width:0.35881504;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path5769"
        cx="68.207809"
        cy="229.93037"
-       r="62.7019" />
+       r="58.544163" />
     <g
        id="g5778"
-       transform="matrix(0.97252356,0,0,0.97252356,2.4243361,2.6709738)">
+       transform="matrix(1.0884799,0,0,1.0884799,-5.9501735,-24.382953)">
       <path
          inkscape:connector-curvature="0"
          id="path5629"
