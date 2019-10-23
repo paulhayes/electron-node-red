@@ -1,7 +1,7 @@
 ![](img/LockkeeperTitleBlack.png)
 ![](img/LockkeeperBlack.png)
 
-Lockkeeper is an open source [GPL v3.0 License](License.md) application intended to provide Escape Room creators and easy to use off the shelf tool for developing, controlling and deploying their projects.
+Lockkeeper is an open source [GPL v3.0 License](License.md) application intended to provide Escape Room creators an easy to use off the shelf tool for developing, controlling and deploying escape room control systems.
 
 It's features include 
 * Dashboard
